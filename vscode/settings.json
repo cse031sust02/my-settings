@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.editor": "json",
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.ignoreSelection": true,
+    "code-runner.saveFileBeforeRun": true,
+    "workbench.activityBar.visible": true,
+    "python.defaultInterpreterPath": "/usr/bin/python3.8",
+    "window.zoomLevel": 1,
+}
